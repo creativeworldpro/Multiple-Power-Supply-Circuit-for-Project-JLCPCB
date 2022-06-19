@@ -96,5 +96,55 @@ Feature -
 •	Low operational costs
 
 •	Smaller regulator heat sinks
+
 •	Smaller in size and weight (for high switching rate)
 
+Circuit Connection - Step 1
+
+To make this SMT multiple power supply circuit, 1st we make a bridge connection with these 4 diode. Then connect diode positive leg with capacitor positive leg and connect diode negative leg with capacitor negative leg.
+
+With this power supply, we also can use a power indicator led light. When the circuit receive power signal, then the led light glow.
+We utilize JLCPCB https://jlcpcb.com/RTA to printout our PCB.
+
+Circuit Connection – Step 2
+
+Since it is a multiple power supply circuit, for this we need to use liner voltage regulator IC. We connect all liner voltage regulator IC “GND” leg with capacitor negative leg and all Liner voltage regulator “IN” leg with capacitor positive leg.
+
+Now, we just need output voltage. 
+
+Circuit Connection – Step 3
+
+Now we just add 5 sockets with this circuit. In this 5 sockets, 1 socket will contain “GND” voltage and other sockets will contain DC 3, 5, 9 and 12 volt.
+
+Our circuit is now, completely ready for use. Just plug-in transformer with input leg  of PCB and use your needed voltage from this circuit.
+
+Thanks to JLCPCB for offering us, this SMT PCB circuit.
+
+Steps to Order PCBs from JLCPCB - 
+
+If you complete design of your PCBs, then it is time to order PCBs. To order best quality PCBs, just visit JLCPCB and click on the “QUOTE NOW” button.
+
+Since 2006, JLCPCB continuously driven to become more efficient and to reduce costs. They promise to offer customers the most economic PCBs forever. JLCPCB makes cheapest but top quality PCBs possibly because of scale effect, extremely high production efficiency and less manpower cost.
+
+You can order minimum 5 pieces PCBs for only $2 costs.
+
+To order PCBs, make your Gerber file. Then drag and drop the Gerber file on the following box.
+
+Click on “Gerber Viewer” button you can check the PCBs design. Make sure everything is good, then choose color, quantity and order your PCBs at very reasonable prices.
+
+If you are a new user, then you can order 10 pieces PCBs, costing only $2. To place your order click on “Save to Cart” button. Confirm your shipping address and shipping method.
+
+
+Steps to Order SMT PCBs from JLCPCB - 
+
+To order your SMT PCBs, visit JLCPCB.
+
+1.	 Drag and drop SMT PCBs file on site.
+2.	 Choose your PCBs color and quantity.
+3.	 To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+4.	 Add your Bom file and CPL file.
+5.	 Place your order click on “Save to Cart” button.
+6.	 Confirm your shipping address and shipping method.
+7.	 Pay your payment
+8.	 Wait for confirmation mail.
+9.	 For SMT Service, Click here.
