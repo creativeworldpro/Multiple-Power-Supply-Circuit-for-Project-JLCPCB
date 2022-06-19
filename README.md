@@ -148,3 +148,35 @@ To order your SMT PCBs, visit JLCPCB.
 7.	 Pay your payment
 8.	 Wait for confirmation mail.
 9.	 For SMT Service, Click here.
+
+
+Shipping and Billing - 
+
+JLCPCB supported all shipping method can be seen below.
+
+Estimated Delivery Time - 
+
+•	DHL International Express 3-5 business days
+•	UPS Worldwide Saver 3-6 business days
+•	S.F Express(Standard) 5-8 business days
+•	S.F Express(Economy) 8-15 business days
+•	Singapore EMS 8-15 business days
+•	PostLink Registered Mail 15-20 business days
+•	ePacket 15-25 business days
+•	Registered Air Mail 15-20 business days
+
+
+JLCPCB supported Payment method.
+
+•	PayPal
+•	Credit/Debit Care
+•	Prepaid wire transfer
+
+Confirm PCBs Order - 
+
+To confirm your order, pay your payment. Then accept PayPal, Credit/Debit Card, Prepaid Wire Transfer. To manufactured your PCBs, it’ll takes about 2 days. DHL will be fastest shipping method to arrive your ordered PCBs at your location.
+
+All PCBs were well packed and quality was really good.
+
+Thanks to JLCPCB for best quality PCBs.
+
