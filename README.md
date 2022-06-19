@@ -96,6 +96,5 @@ Feature -
 •	Low operational costs
 
 •	Smaller regulator heat sinks
-
 •	Smaller in size and weight (for high switching rate)
 
